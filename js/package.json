@@ -1,0 +1,19 @@
+{
+  "name": "nodeestudos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "../Route/src/Router/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "moment": "^2.29.4"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
